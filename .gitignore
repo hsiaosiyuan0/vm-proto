@@ -1,0 +1,12 @@
+.DS_Store
+/lint
+bin
+lint.exe
+*.log
+/mole
+/mole.wasm
+/test.mjs
+/test.js
+.env
+/testdir
+myjs
